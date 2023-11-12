@@ -17,6 +17,7 @@ geopandas = "^0.14.1"
 requests = "^2.31.0"
 openpyxl = "^3.1.2"
 python-dotenv = "^1.0.0"
+haversine = "^2.8.0"
 
 
 [tool.poetry.group.dev.dependencies]
